@@ -385,7 +385,7 @@
 # else:
 #     print("Sorry the length is not same")
 
-# arr = [1,1,1,1,1,1,1,1,1,7,7,7,7,7,7,1,2,3,4,5,2,1,2,3,2,1,4,51,2,1,2,4,1,0,2,2,2,2,1,1,1,4,41,0,0,0,2,4,2,3,6,6,4,5,2,2,1,1,0,2,1]
+# arr = [1,1,1,1,1,1,1,1,1,7,7,7,7,7,7,1,2,3,4,5,2,1,2,3,2,1,4,51,2,2,2,1,1,1,4,41,0,0,0,2,4,2,3,6,6,4,5,2,2,1,1,0,2,1]
 # d = {}
 # for i in arr:
 #     if i in d.keys():
@@ -634,4 +634,23 @@
 # print(f"\n{'='*35}")
 # print("  All students registered successfully!")
 # print(f"{'='*35}\n")
+
+# BANK ACCOUNT SAFETY CHECK :
+
+# print("="*25)
+# print(" 1 : Deposit")
+# print(" 2 : Withdraw")
+# print(" 3 : Overdraft")
+# print(" 4 : Transfer")
+# print("="*25)
+
+# choice = int(input("Enter your choice : "))
+
+# def deposit():
+#     pass
+
+# if choice == 1:
+#     def deposit():
+
+        
 
